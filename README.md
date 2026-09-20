@@ -11,7 +11,7 @@
 <body>
   <h1>Lion's Den Finanical Group</h1>
   <p>Life Insurance, it's a sensitivity topic, but we have to ask about it.</p>
-  <p>Don you have it? (Not only through employer but privately)</p>
+  <p>Don't you have it? (Not only through employer but privately)</p>
   <p>How Much?</p>
   <p>Does it contain living benefits?</p>
   <p>Do you have to die for beneficiary to access it?</p>
